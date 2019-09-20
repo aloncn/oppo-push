@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	oppopush "github.com/316014408/oppo-push"
+	oppopush "github.com/aloncn/oppo-push"
 )
 
 var client = oppopush.NewClient("appKey", "masterSecret")
